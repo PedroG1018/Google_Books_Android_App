@@ -10,4 +10,5 @@ Created using this guide: https://learntodroid.com/consuming-a-rest-api-using-re
 ## Login Info
 
 User 1 - Username: 'Doomslayer', Password: 'ripandtear'
+
 User 2 - Username: 'Kratos', Password: 'boy'
