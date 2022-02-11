@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Retrofit Example</string>
+    <string name="book_search_text_view">Book Search</string>
+    <string name="keyword_hint">Keyword</string>
+    <string name="search_button">Search</string>
+    <string name="author_hint">Author</string>
+    <string name="book_image">Book Image</string>
+    <string name="log_in">Log In</string>
+    <string name="app_title">Google Books API App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_prompt">Log In</string>
+    <string name="create_account_prompt">Create Account</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="logout">Logout</string>
+</resources>
