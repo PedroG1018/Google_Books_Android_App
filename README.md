@@ -9,7 +9,7 @@ Created using this guide: https://learntodroid.com/consuming-a-rest-api-using-re
 
 Link to app demo: https://youtu.be/caP_95055es
 
-Note: You must generate your own Google API key to run the app. Create an APIKeys.java file and place your key in there. 
+Note: You must generate your own Google API key to run the app. Create an ApiKeys.java file and place your key in there. 
 
 ## Login Info
 
